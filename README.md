@@ -10,5 +10,6 @@ In anki you can import a new deck by selecting File->Import and selecting it fro
 ## CSV
 Comma-separated list of card information
 
-## TXT **if you would like to update an answer, please use this file as it makes it easier to see proposed changes** 
+## TXT 
+#### **If you would like to update an answer, please use this file as it makes it easier to see proposed changes** 
 Allows for viewing of card content in github. 
